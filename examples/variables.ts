@@ -14,11 +14,11 @@ let myNumbers : number[] = [1,2,3];
 let truths : boolean[] = [true, true];
 
 // Classes
-class Car {
+class CarTest {
 
 }
 
-let car : Car = new Car();
+let carTest : CarTest = new CarTest();
 
 // object literal
 let point : { x : number; y: number; } = {
